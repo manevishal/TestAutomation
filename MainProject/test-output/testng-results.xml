@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="180" started-at="2019-04-13T16:35:44Z" finished-at="2019-04-13T16:35:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="180" started-at="2019-04-13T16:35:44Z" finished-at="2019-04-13T16:35:44Z">
+      <class name="com.rule14.Application.TestNG1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.rule14.Application.TestNG1@13b6d03]" name="beforeMethod" is-config="true" duration-ms="61" started-at="2019-04-13T16:35:44Z" finished-at="2019-04-13T16:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.rule14.Application.TestNG1@13b6d03]" name="f" duration-ms="0" started-at="2019-04-13T16:35:44Z" finished-at="2019-04-13T16:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.rule14.Application.TestNG1@13b6d03]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-13T16:35:44Z" finished-at="2019-04-13T16:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.rule14.Application.TestNG1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
